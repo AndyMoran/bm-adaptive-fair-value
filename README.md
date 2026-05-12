@@ -1,6 +1,4 @@
-# GB Balancing Mechanism Research Project
-
-## Adaptive Equilibrium and Fair-Value Dynamics in the GB Balancing Mechanism
+# Walk‑Forward Adaptive Fair‑Value Modelling for GB Balancing Spreads
 
 ---
 
